@@ -10,7 +10,7 @@
 <body>
 	<h1 class="titol">TITOL</h1>
 	
-	<p class="parraf"><div>A<div>ixo <br>
+	<p class="parraf"><span>A</span>ixo <br>
 	es <br>
 	un <br>
 	paragraf <br>
